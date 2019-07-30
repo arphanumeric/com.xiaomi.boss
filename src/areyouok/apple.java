@@ -9,6 +9,7 @@ public class apple {
 		System.out.println("are me ok");
 >>>>>>> branch 'master' of https://github.com/arphanumeric/com.xiaomi.boss.git
 		System.out.println("are You ok");
+		System.out.println("hot_fix");
 	}
 
 }
